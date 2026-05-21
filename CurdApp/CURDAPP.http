@@ -1,0 +1,6 @@
+@CURDAPP_HostAddress = http://localhost:5140
+
+GET {{CURDAPP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
